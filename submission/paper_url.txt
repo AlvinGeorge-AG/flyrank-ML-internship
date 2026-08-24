@@ -1,1 +1,1 @@
-PASTE-YOUR-DEPLOYED-PAPER-URL-HERE
+https://github.com/AlvinGeorge-AG/flyrank-ML-internship/blob/main/work/capstone_report.md
